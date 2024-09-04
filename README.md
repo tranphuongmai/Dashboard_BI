@@ -17,12 +17,12 @@ In this repository, I introduce all of the BI related project that I have done d
 With the increasing demand and fierce competition in the market, Megamax is looking for DA's insights to understand what works best for the company. Megamax would like to know which products, regions, categories and customer segments that should be targeted or avoided.
 
 At the end of analysis, expected dashboard will have the following indicators:
-• Monthly sales and profits,
-• Sales by category and subcategory,
-• Profit analysis by category and subcategory,
-• Profit analysis by product,
-• Sales and profit analysis by customer segment,
-• Sales and profit analysis by region and cities etc…
+* Monthly sales and profits,
+* Sales by category and subcategory,
+* Profit analysis by category and subcategory,
+* Profit analysis by product,
+* Sales and profit analysis by customer segment,
+* Sales and profit analysis by region and cities etc…
 
 ### Screenshots of Dashboard
 ***1. Overview***
