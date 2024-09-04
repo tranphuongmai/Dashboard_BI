@@ -60,7 +60,7 @@ There are three key questions that need to be answered at the end of the case st
 * Why would occasional cyclists buy Cyclistic annual subscriptions?
 * How can Cyclistic use digital media to influence casual cyclists to become members?
 * Where would you recommend Cyclistic to implement new stations to make the service more available?
-* 
+  
 ### Screenshots of Dashboard
 ***1. Overview***
 ![cy1](cyclistic_1.png)
