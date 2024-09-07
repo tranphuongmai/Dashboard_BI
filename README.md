@@ -56,7 +56,7 @@ My approach:
 ***Solution***
 ![can3](recom_solution.png)
 
-##
+##   
 ## Megamax - Giant retailer of furniture, office supplies and technology products on line in the US
 ![megalogo](megamax_logo.png)
 
@@ -85,7 +85,7 @@ At the end of analysis, expected dashboard will have the following indicators:
 ![mega4](megamax_4.png)
 
 
-##
+##   
 ## Cyclistic - a bike sharing company in Chicago
 ![cyclistic_logo](logo.png)
 
