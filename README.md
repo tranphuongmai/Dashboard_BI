@@ -8,6 +8,50 @@
 ## Introduction
 In this repository, I introduce all of the BI related project that I have done during my formation at Wild Code School. Normally, my coach provides me the source of datasets, I then use Pandas to process and clean date and visualize the insights on an interactive dashboard by using PowerBI.
 
+## Olist - E-commerce service for sellers in Brasil
+![olist_logo](logo_olist.png)
+
+### Context and Method
+This is ***a business case in the framework of my DA certification exam*** hat I had only 8h to understand, approach, find problems and solutions according to the task requirement.
+
+My approach: 
+1. Check the quality of all databases
+2. Combine the 2 databases related to 'Order' to calculate the delay of  every process in the order process (in days)
+3. Define conditions to change number value (days) into label value to easier identify the factors of insatisfaction, also to easier communicate to the clients who don't understand very well the dataset.
+4. Visualize on Power BI, point out problems and their actors, propose solutions. 
+
+### Summary of the Project
+***Mission***
+* Objective: Help business leaders in their decision-making process.
+
+* The CEO of Olist has tasked you with making sense of all the data in order to formulate recommendations on the following question:
+
+* How to increase Olist customer satisfaction?
+
+***About the dataset***
+* Information on approximately 100,000 orders placed between 2016 and 2018. Real data! Identifiable information has been anonymized. Full documentation available in the dictionary provided.
+
+* The process for each seller: The seller joins Olist and makes their product catalogs available to Olist. Olist displays these catalogs on existing commercial platforms (Amazon, Bahia, Walmart, ...). The seller receives a notification as soon as a product is sold. The seller transmits the ordered items to third-party logistics carriers.
+
+* The process for the customer: The customer browses the products on the commercial platforms (Amazon, Bahia, Walmart, ...). He buys the products listed via Olist.store. He obtains an expected date for delivery, taking into account the estimated arrival time. The customer receives the order(s) and leaves a comment.
+
+### Screenshots of Dashboard
+***1. Client Evaluation Analysis***
+![O1](review_analysis.png)
+
+***2. Insatisfaction Factors Analysis***
+![O2](factors.png)
+
+### Problems and Solutions
+
+***Problems***
+![can1](canva_factors.png)
+
+***Problems's Actors***
+![can2](canva_actors.png)
+
+***Solution***
+![can3](recom_solution.png)
 
 
 ## Megamax - Giant retailer of furniture, office supplies and technology products on line in the US
@@ -72,50 +116,7 @@ There are three key questions that need to be answered at the end of the case st
 ![cy3](cyclistic_3.png)
 
 
-## Olist - E-commerce service for sellers in Brasil
-![olist_logo](logo_olist.png)
 
-### Context and Method
-This is ***a business case in the framework of my DA certification exam*** hat I had only 8h to understand, approach, find problems and solutions according to the task requirement.
-
-My approach: 
-1. Check the quality of all databases
-2. Combine the 2 databases related to 'Order' to calculate the delay of  every process in the order process (in days)
-3. Define conditions to change number value (days) into label value to easier identify the factors of insatisfaction, also to easier communicate to the clients who don't understand very well the dataset.
-4. Visualize on Power BI, point out problems and their actors, propose solutions. 
-
-### Summary of the Project
-***Mission***
-* Objective: Help business leaders in their decision-making process.
-
-* The CEO of Olist has tasked you with making sense of all the data in order to formulate recommendations on the following question:
-
-* How to increase Olist customer satisfaction?
-
-***About the dataset***
-* Information on approximately 100,000 orders placed between 2016 and 2018. Real data! Identifiable information has been anonymized. Full documentation available in the dictionary provided.
-
-* The process for each seller: The seller joins Olist and makes their product catalogs available to Olist. Olist displays these catalogs on existing commercial platforms (Amazon, Bahia, Walmart, ...). The seller receives a notification as soon as a product is sold. The seller transmits the ordered items to third-party logistics carriers.
-
-* The process for the customer: The customer browses the products on the commercial platforms (Amazon, Bahia, Walmart, ...). He buys the products listed via Olist.store. He obtains an expected date for delivery, taking into account the estimated arrival time. The customer receives the order(s) and leaves a comment.
-
-### Screenshots of Dashboard
-***1. Client Evaluation Analysis***
-![O1](review_analysis.png)
-
-***2. Insatisfaction Factors Analysis***
-![O2](factors.png)
-
-### Problems and Solutions
-
-***Problems***
-![can1](canva_factors.png)
-
-***Problems's Actors***
-![can2](canva_actors.png)
-
-***Solution***
-![can3](recom_solution.png)
 
 
 
