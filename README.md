@@ -35,6 +35,9 @@ My approach:
 
 * The process for the customer: The customer browses the products on the commercial platforms (Amazon, Bahia, Walmart, ...). He buys the products listed via Olist.store. He obtains an expected date for delivery, taking into account the estimated arrival time. The customer receives the order(s) and leaves a comment.
 
+***Schema of dataset***
+![schema](schema.png)
+
 ### Screenshots of Dashboard
 ***1. Client Evaluation Analysis***
 ![O1](review_analysis.png)
