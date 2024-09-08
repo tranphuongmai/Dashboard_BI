@@ -12,7 +12,7 @@ In this repository, I introduce all of the BI related project that I have done d
 ![olist_logo](logo_olist.png)
 
 ### Context and Method
-This is ***a business case in the framework of my DA certification exam*** hat I had only 8h to understand, approach, find problems and solutions according to the task requirement.
+This is ***a business case in the framework of my DA certification exam*** that I had only 8h to understand, approach, find problems and solutions according to the task requirement.
 
 My approach: 
 1. Check the quality of all databases
