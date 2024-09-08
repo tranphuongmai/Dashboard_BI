@@ -6,7 +6,7 @@
 ![LogoPBI](powerbi.png)
 
 ## Introduction
-In this repository, I introduce all of the BI related project that I have done during my formation at Wild Code School. Normally, my coach provides me the source of datasets, I then use Pandas to process and clean date and visualize the insights on an interactive dashboard by using PowerBI.
+In this repository, I introduce all of the BI related project that I have done during my formation at Wild Code School. Normally, my coach provides me the source of datasets, I then use Pandas to process and clean data and visualize the insights on an interactive dashboard by using PowerBI.
 
 ## Olist - E-commerce service for sellers in Brasil
 ![olist_logo](logo_olist.png)
